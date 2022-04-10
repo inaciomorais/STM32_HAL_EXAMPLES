@@ -1,2 +1,3 @@
 # STM32_HAL_EXAMPLES
-main.c STM32 HAL examples
+
+A STM32CubeMX HAL main.c examples collection.
