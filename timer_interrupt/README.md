@@ -10,10 +10,15 @@ Counter Settings:
 
 
 PSC value 0 = prescaler of 1
+
 PSC value 1 = prescaler of 2
+
 .
+
 .
+
 .
+
 PSC value 79 = prescaler of 80
 
 We put a value of 80 - 1 just to remember what the prescaler value really is.
