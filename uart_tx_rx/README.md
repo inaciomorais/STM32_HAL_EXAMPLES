@@ -1,1 +1,6 @@
 
+HAL_GPIO_WritePin
+HAL_UART_Receive_IT
+HAL_GPIO_ReadPin
+HAL_UART_Transmit
+HAL_USART_RxCpltCallback
